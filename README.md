@@ -1,2 +1,4 @@
 # my_first_network
-This  is my first project about  deep learning. 
+这是我的第一个关于深度学习的小项目。第一次使用GitHub发布代码，算是练习一下使用GitHub，以后会陆陆续续发布各种学习笔记。
+这个小项目是看了几遍Miceal Nielsen 的电子书后一二章之后的一个复现。发现自己写的时候出现了各种错误。基本断断续续写完用了两三天。
+
